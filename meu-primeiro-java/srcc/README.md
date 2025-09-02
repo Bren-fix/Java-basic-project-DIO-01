@@ -29,4 +29,4 @@ O objetivo foi aplicar os **4 pilares da POO**: **Abstração, Encapsulamento, H
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Bren-fix/Java-basic-project-DIO-01.git
